@@ -45,7 +45,7 @@ Most works focus on (1) and (3). Mammoth explicitly targets (2): it **replaces t
 - **Mitigated Instance-Gradient Intereference:** Heterogeneous instances yield conflicting gradient updates for the standard linear layer, which is mitigated by Mammoth's expert routing.  
 </details>
 
-**Representative performance**
+**Overall performance**
 | MIL Model | Linear<br>(Morph, T=6) | Mammoth<br>(Morph, T=6) | Linear<br>(Molec, T=13) | MAMMOTH<br>(Molec, T=13) |
 |:---|:---:|:---:|:---:|:---:|
 | **ABMIL** | 75.2 | 78.4 | 72.8 | 74.6 |
@@ -57,7 +57,7 @@ Most works focus on (1) and (3). Mammoth explicitly targets (2): it **replaces t
 | **MaxMIL** | 71.9 | 74.8 | 72.9 | 74.1 |
 | **DSMIL** | 72.7 | 75.6 | 72.1 | 73.3 |
 
-Shown is average performance for the linear layer vs. Mammoth across different MIL methods with UNI patch features. Balanced accuracy is reported for morphological subtyping tasks, and AUROC is reported for molecular subtyping tasks. 
+Shown is average performance for the standard linear layer vs. Mammoth across different MIL methods with UNI patch features. Balanced accuracy is reported for morphological subtyping tasks, and AUROC is reported for molecular subtyping tasks. 
 
 ## Installation
 
