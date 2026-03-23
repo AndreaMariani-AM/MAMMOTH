@@ -1,0 +1,8 @@
+# MANIFEST.in
+include pyproject.toml
+include README.md
+recursive-include src/mammoth *.py
+prune assets
+prune examples
+prune MIL-Lab
+prune test_mammoth

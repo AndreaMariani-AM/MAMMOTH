@@ -1,0 +1,23 @@
+__pycache__/
+*.h5
+*.lab
+*.svs
+#*.png
+*.pdf
+*.jpg
+*.pyc
+*.DS_Store/
+
+.venv/
+examples/process/
+examples/model_weights/
+examples/visualizations/
+test_mammoth/
+*__pycache__/
+CURSOR_FILES.MD/
+examples/expert_wsi_heatmap_tcga.py
+# Build artifacts
+dist/
+*.egg-info/
+build/
+*.egg
