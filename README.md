@@ -82,6 +82,8 @@ The [mammoth.py](./src/mammoth/mammoth.py) module only depends on:
 
 For quickstart instructions to use the MIL models in this repository, including environment setup, please see the [MIL-Lab](https://github.com/mahmoodlab/MIL-Lab)
 
+> [!Note]
+> The pip package only contains the `mammoth.py` module. Install from source to use the full suite of MIL methods in this repository.
 ---
 
 ## Minimal example: adding Mammoth to any MIL model
