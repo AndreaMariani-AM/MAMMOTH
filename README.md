@@ -7,7 +7,7 @@
 <b>Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning</b>, ICLR 2026.  
 *[Daniel Shao](https://www.linkedin.com/in/daniel-shao-833927181/), [Joel Runevic](https://www.linkedin.com/in/joelrunevic/), [Richard J. Chen](https://www.linkedin.com/in/richardchen95/), [Drew F. K. Williamson](https://www.linkedin.com/in/drew-williamson-md/), [Ahrong Kim](https://www.researchgate.net/scientific-contributions/Ahrong-Kim-2284298092), [Andrew H. Song](https://www.linkedin.com/in/andrewhsong/)\*, [Faisal Mahmood](https://faisal.ai/)\**
 
-*A parameter-efficient, plug-and-play mixture of experts for multiple instance learning models in computational pathology*  
+*A parameter-efficient mixture of experts module for multiple instance learning in computational pathology*  
 [Paper](https://openreview.net/pdf?id=S5Io33pc78) | [OpenReview](https://openreview.net/forum?id=S5Io33pc78) | [Citation](#Citation)
 
 
