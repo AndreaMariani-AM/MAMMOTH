@@ -1,6 +1,7 @@
 # Mammoth: Mixture of Mini Experts in Pathology
 
 [![PyPI version](https://img.shields.io/pypi/v/mammoth-moe.svg)](https://pypi.org/project/mammoth-moe/)
+[![Downloads](https://static.pepy.tech/personalized-badge/mammoth-moe?period=total&units=none&left_color=grey&right_color=blue&left_text=downloads)](https://pepy.tech/project/mammoth-moe)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
