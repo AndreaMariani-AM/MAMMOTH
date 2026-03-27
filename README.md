@@ -257,9 +257,5 @@ If you use this code, the Mammoth method, or the MIL model implementations in yo
 
 ---
 
-## License
-
-See the repository for license information. The paper is under CC BY 4.0.
-
 
 <img src="assets/joint_logo.png"> 
