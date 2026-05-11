@@ -251,6 +251,11 @@ class Mammoth(nn.Module):
         assert divisible_by(input_dim, num_heads), (
             "dimension must be divisible by number of heads"
         )
+
+        assert dim != slot_dim, (
+            "Output dimension must be different than slot dimension"
+        )
+        
         self.num_slots = num_slots
         self.keep_slots = keep_slots
         self.slot_dropout = slot_dropout
